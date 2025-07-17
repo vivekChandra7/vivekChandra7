@@ -2,13 +2,13 @@
 
   Aspiring **Full Stack Developer** | Passionate about building web apps 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchandra7&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchandra7" /> </p>
-
 - 🌱 I’m currently learning **React,next.js**
 
 - 📫 How to reach me **vivekchandra2462@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="right"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="150" style="margin-right: 50px;"></p>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-c7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-c7/" height="30" width="40" /></a>
 </p>
