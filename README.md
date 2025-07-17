@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/vivekChandra7/vivekChandra7/main/github-header-image.png)
 
   Aspiring **Full Stack Developer** | Passionate about building web apps 🚀
-  <h1 align="center">Hi 👋, I'm Vivek Chandra</h1
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchandra7&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchandra7" /> </p>
 
 - 🌱 I’m currently learning **React,next.js**
