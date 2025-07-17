@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Vivek Chandra
-
-Aspiring **Full Stack Developer** | Passionate about building web apps 🚀
 
 <h1 align="center">Hi 👋, I'm Vivek Chandra</h1>
+Aspiring **Full Stack Developer** | Passionate about building web apps 🚀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchandra7&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchandra7" /> </p>
 
 <h3 align="left">Connect with me:</h3>
