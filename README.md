@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/vivekChandra7/vivekChandra7/main/https://github.com/vivekChandra7/vivekChandra7/blob/68e2abdfcd3445f30b15ade9d02d629704e9c54e/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png)
+![Header](https://raw.githubusercontent.com/vivekChandra7/vivekChandra7/main/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png)
 
   Aspiring **Full Stack Developer** | Passionate about building web apps 🚀
 
